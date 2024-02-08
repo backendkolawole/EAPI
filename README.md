@@ -1,14 +1,11 @@
 # EAPI
+EAPI is built using Nodejs and Express framework. It is an API for an e-commerce store and follows a RESTFul design architecture. 
 
-## Motivation
-It can be used with any shopping project needing JSON products. This project incorporates filtering capabilities using django-filter. Django-filter is a generic, reusable application to alleviate writing some of the more mundane bits of view code.
+## Goal
+The goal of EAPI is to provide a client user with e-commerce JSON data meaning it can be used with any shopping project needing JSON products. This project incorporates filtering capabilities that enhance user experience by enabling seamless data retrieval and manipulation with query string encoding.
 
-### Goal
-The goal with drf-ecommerce-api is to provide a client user with e-commerce JSON data and allow users to filter based on a model’s fields, displaying the form to let them do this.
+## ⚙️ Installation
 
-⚙️ Installation
+## Usage
 
-## Other usage examples
-## Closing and resources 
 ## Contact
-## Contributing
